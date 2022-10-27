@@ -1,2 +1,2 @@
 ## Objective
-- To determine accurate Quality Factor of an unknown coil.
+- To determine the self-inductance of an unknown coil. 
